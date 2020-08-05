@@ -1,0 +1,11 @@
+Kem,12000.0,48
+Tra sua,25000.0,7
+Ca Phe,15000.0,22
+Banh mi,12000.0,42
+Xuc xich,8000.0,70
+Banh xeo,15000.0,27
+Tom hum,1200000.0,1
+Mi xao,20000.0,38
+Thit kho,25000.0,20
+Thit heo,40000.0,15
+Pho bo,25000.0,30

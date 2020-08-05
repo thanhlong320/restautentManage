@@ -1,0 +1,44 @@
+1,Kem,1,10000.0
+1,Tra sua,2,50000.0
+1,Banh trang,1,10000.0
+1,Ca Phe,1,15000.0
+1,Banh mi,1,12000.0
+1,Xuc xich ,1,8000.0
+1,Banh xeo,1,15000.0
+1,Tom hum,7,8400000.0
+1,Tra sua,2,50000.0
+2,Kem,2,20000.0
+2,Banh mi,5,60000.0
+3,Ca Phe,2,30000.0
+3,Tom hum,2,2400000.0
+4,Kem,1,10000.0
+4,Tra sua,2,50000.0
+5,Tra sua,1,25000.0
+6,Banh mi,1,12000.0
+7,Xuc xich ,1,8000.0
+8,Xuc xich ,1,8000.0
+9,Xuc xich ,1,8000.0
+10,Xuc xich ,1,8000.0
+11,Xuc xich ,1,8000.0
+12,Xuc xich ,1,8000.0
+12,Mi xao,1,20000.0
+12,Trung ran ,1,10000.0
+13,Trung ran ,5,50000.0
+13,Mi xao,5,100000.0
+14,Tra sua,2,50000.0
+15,Mi xao,1,20000.0
+16,Mi xao,1,20000.0
+16,Xuc xich ,5,40000.0
+16,Banh trang,26,260000.0
+17,Mi xao,2,40000.0
+17,Xuc xich ,8,64000.0
+17,Tra sua,1,25000.0
+18,Kem,1,12000.0
+18,Tra sua,1,25000.0
+19,Kem,1,12000.0
+19,Xuc xich,1,8000.0
+19,Banh xeo,2,30000.0
+19,Banh mi,1,12000.0
+20,Bun dau,1,10000.0
+20,Mi xao,2,40000.0
+20,Xuc xich,9,72000.0
